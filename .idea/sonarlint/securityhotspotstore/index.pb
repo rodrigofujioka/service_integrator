@@ -1,0 +1,19 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+m
+=src/main/java/com/alunoonline/api/AlunoOnlineApplication.java,f\d\fdd2acf3fed092afb0854be3ff078bd2e2e45436
+v
+Fsrc/main/java/com/alunoonline/api/controller/DisciplinaController.java,3\d\3d836e6088e088228b3ea03018a255cecf03916a
+g
+7src/main/java/com/alunoonline/api/model/Disciplina.java,f\2\f2855f741256a7d269a0f4c61bcd643e674580ad
+s
+Csrc/main/java/com/alunoonline/api/model/dtos/HistoricoAlunoDto.java,f\a\fa8ed75e26a56e3ad9294ac7ee6c955e95fa0787
+u
+Esrc/main/java/com/alunoonline/api/model/dtos/DisciplinasAlunoDto.java,6\5\6548e99bea04f6a232b22daca326e860e24d854b
+v
+Fsrc/main/java/com/alunoonline/api/repository/DisciplinaRepository.java,b\4\b4cf25af053513c4ac1935870be0e27cb187ec4d
+p
+@src/main/java/com/alunoonline/api/service/DisciplinaService.java,4\0\40962013dfedf58cd2768eb379d88c96d80a2ed1
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
