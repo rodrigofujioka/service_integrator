@@ -37,3 +37,5 @@ e
 5src/main/java/com/posback/api/EsporteApplication.java,c\d\cdbcafdd3b893419c6d4b479c3d7c01bcc3b7fc6
 `
 0src/main/java/com/posback/api/model/Esporte.java,6\f\6f582622d86d6d04a10fb5096957f602037bda7b
+w
+Gsrc/main/java/com/posback/api/exception/HandleValidationExceptions.java,0\2\022fa74c74a0eac5b60f55234db2bf17899d5a9b

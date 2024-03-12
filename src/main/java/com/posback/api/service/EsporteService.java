@@ -13,16 +13,16 @@ public class EsporteService {
     @Autowired
     EsporteRepository repository;
 
-    public Esporte findDisciplinaByCode(String codigoDisciplina) {
+    public Esporte findEsporteByCode(String codigoDisciplina) {
         return repository.findByCodigo(codigoDisciplina);
     }
 
-    public List<String>listarCodigoDisciplinas(){
+    public List<String>listarCodigoEsportes(){
         return repository.listarCodigoDisciplina();
     }
 
 
-    public List<Esporte> listarDisciplinas(){
+    public List<Esporte> listarEsportes(){
         return repository.findAll();
     }
 

@@ -1,0 +1,5 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Erros" 3 times.(ÀıÌ¼ıÿÿÿÿ
+m
+java:S6204?"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(±Êüÿÿÿÿ
